@@ -18,4 +18,11 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 * **ASK_AMT**—Funding amount requested
 * **IS_SUCCESSFUL**—Was the money used effectively
 
+## Process
+
+Step 1: Preprocess the Data
+Step 2: Compile, Train, and Evaluate the Model
+Step 3: Optimise the Model
+Step 4: Write a Report on the Neural Network Model
+
 ## Output
